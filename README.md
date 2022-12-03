@@ -15,7 +15,12 @@ gamedev is a repository with game development resources that I have found useful
     - https://frankforce.com/tools/ by Killed By A Pixel
     - [Kontra.js](https://straker.github.io/kontra/)
         - And a [tutorial](https://medium.com/web-maker/making-asteroids-with-kontra-js-and-web-maker-95559d39b45f)
+- [Typescript platformer tutorial (video)](https://www.youtube.com/watch?v=9eQ6GgoliHk)
 
+### Tutorials I have used
+
+- [JS game development course for beginners (video)[https://www.youtube.com/watch?v=GFO_txvwK_c)
+- [How to add a start screen to your javascript game in under five minutes (video)](https://www.youtube.com/watch?v=FwLMz7jMRac)
 
 ## Godot
 
