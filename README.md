@@ -27,7 +27,7 @@ gamedev is a repository with game development resources that I have found useful
 
 - Character movement:
     - [Smooth Character Movement (video)](https://www.youtube.com/watch?v=ZsP7JDrRTJY)
-    - [Better platformer controller(video)](https://www.youtube.com/watch?v=Bsy8pknHc0M)
+    - [Better platformer controller (video)](https://www.youtube.com/watch?v=Bsy8pknHc0M)
 - Moving Platforms:
     - [With paths and AnimationPlayer (video)](https://www.youtube.com/watch?v=2ykdYUA40Ds&t=342s)
     - [With tweens and debug lines (video)](https://www.youtube.com/watch?v=lyGS5Yo8bQI)
