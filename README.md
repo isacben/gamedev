@@ -6,6 +6,7 @@ gamedev is a repository with game development resources that I have found useful
 
 - [JS13KGAMES](https://js13kgames.com/): JavaScript coding competition
     - [GitHub's blog post](https://github.blog/2018-08-09-create-a-13kb-javascript-game-in-30-days-with-js13kgames/)
+    - [Medium blog post with a good example](https://medium.com/hypersphere-codes/how-i-created-a-gameboy-like-game-in-13kb-5905bf6166b2)
 - JS13GAMES interesting repositories:
     - https://github.com/MattiaFortunati/a_day_in_the_life (vanilla JS)
         - [A day in the life explained](https://www.mattiafortunati.com/a-day-in-the-life-and-js13kgames-2017/)
