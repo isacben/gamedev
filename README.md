@@ -17,6 +17,7 @@ gamedev is a repository with game development resources that I have found useful
         - And a [tutorial](https://medium.com/web-maker/making-asteroids-with-kontra-js-and-web-maker-95559d39b45f)
 - [Typescript platformer tutorial (video)](https://www.youtube.com/watch?v=9eQ6GgoliHk)
 - [Scrolling tile world in pure Javascript (video)](https://www.youtube.com/watch?v=jabYMh9sI8Q&t=14s)
+- [Coordinates translations for tilempas (video)](https://www.youtube.com/watch?v=69dHLDT0Eco)
 
 #### Tutorials I have used
 
